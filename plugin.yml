@@ -1,0 +1,8 @@
+name: MineEnchantFix
+main: com.daniel.net.system.enchant.fix.Main
+version: 1.0
+
+commands:
+  MineEnchTableLapis:
+    description: 리로드
+    aliases: [enchfix]
